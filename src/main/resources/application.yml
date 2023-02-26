@@ -1,0 +1,4 @@
+rocketmq:
+  name-server: 39.99.149.131:9876
+  producer:
+    group: spring-producer
